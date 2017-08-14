@@ -1,1 +1,1 @@
-# MapCoordinates
+Small addon that will add coordinates to the WorldMap. Coordinates are based on a Equirectangular projection
